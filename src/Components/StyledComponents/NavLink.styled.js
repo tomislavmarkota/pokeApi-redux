@@ -12,6 +12,6 @@ export const NavLinkStyled = styled(Link)`
   color: black;
   text-decoration: none;
   &:hover {
-    background-color: white;
+    background-color: ${({theme}) => theme.colors.body};
   }
 `;

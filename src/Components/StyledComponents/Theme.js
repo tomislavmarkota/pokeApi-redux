@@ -1,11 +1,9 @@
 
 const theme = {
     colors: {
-        primaryOne: '#fff',
-        primaryTwo: '#4EC989',
-        primaryThree: '#d9d9d9'
+        body: '#F5F5F5',
+
     }
-    
 }
 
 
